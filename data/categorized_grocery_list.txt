@@ -1,0 +1,61 @@
+Here is the categorized and sorted list of grocery items:
+
+**Produce**
+• Apples
+• Bananas
+• Bell Peppers
+• Broccoli
+• Carrots
+• Garlic
+• Lettuce
+• Mushrooms
+• Onions
+• Potatoes
+• Spinach
+• Strawberries
+• Tomatoes
+
+**Dairy**
+• Cheese
+• Eggs
+• Milk
+• Yogurt
+
+**Meat/Seafood**
+• Chicken Breast
+• Ground Beef
+• Salmon
+• Shrimp
+• Sausages
+
+**Bakery**
+• Bread
+• Flour
+• Pasta
+• Rice
+
+**Pantry**
+• Almonds
+• Cereal
+• Coffee
+• Granola Bars
+• Honey
+• Ice Cream
+• Jam
+• Olive Oil
+• Peanut Butter
+• Sugar
+
+**Beverages**
+• Orange Juice
+• Soda
+• Tea
+
+**Household**
+• Dish Soap
+• Laundry Detergent
+• Paper Towels
+• Shampoo
+• Toilet Paper
+
+Note: Some items, like Ice Cream and Granola Bars, could fit into multiple categories. I have placed them in the Pantry category as they are primarily packaged snacks.

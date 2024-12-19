@@ -18,7 +18,6 @@ if not os.path.exists(input_file):
 with open(input_file, "r") as f:
     items = f.read().strip()
 
-
 # Prepare the prompt for the model
 prompt = f"""
 You are an assistant that categorizes and sorts grocery items.
@@ -44,7 +43,7 @@ try:
     print(generated_text)
 
     # Write the categorized list to the output file
-    with open(output_file, "w") as f:
+    with open(output_file,"w",encoding='utf-8', ) as f:
         f.write(generated_text.strip())
 
     print(f"Categorized grocery list has been saved to '{output_file}'.")
